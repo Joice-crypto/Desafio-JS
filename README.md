@@ -1,6 +1,6 @@
 # Desafio-estagio
 
-* Este projeto foi feito para a seleção de estagiarios da Helpper 
+* Este projeto foi feito para exercitar meus conhecimentos em JavaScript
 
 ### Features
 
